@@ -1,0 +1,6 @@
+.idea/BlockChainDemo.iml
+.idea/modules.xml
+.idea/workspace.xml
+bin/bolt
+pkg/darwin_amd64/github.com/boltdb/bolt.a
+src/my.db
